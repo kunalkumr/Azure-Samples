@@ -1,0 +1,1 @@
+Spring Boot PetClinic MicroService Application Credit to https://github.com/Azure-Samples/apptemplates-microservices-spring-app-on-AzureSpringApps
